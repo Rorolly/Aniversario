@@ -17,7 +17,8 @@ h1{
 	margin-bottom: 25px;
 
 }
-img {
+
+.con{
 	margin-top: 10px;
 	max-height: 85vh;
 	max-width: 50vh;
@@ -25,7 +26,9 @@ img {
 	-webkit-box-shadow: 17px -16px 31px -8px rgba(255,255,255,0.75);
 	-moz-box-shadow: 17px -16px 31px -8px rgba(255,255,255,0.75);
 	box-shadow: 17px -16px 31px -8px rgba(255,255,255,0.75);
-
+}
+.carousel-ro{
+	object-fit: cover;
 }
 
 p{
@@ -33,4 +36,17 @@ p{
 	color: white;
 	font-size: 20px;
 	font-family: 'Inconsolata', monospace;
+}
+.text-absolute{
+	position: absolute;
+	top: 40px;
+	left: 0;
+	z-index: 1;
+}
+.titulo-absolute{
+	position: absolute;
+	margin: 10px auto;
+	top: 5px;
+	left: 200px;
+	z-index: 1;
 }
