@@ -1,22 +1,12 @@
 body{
 	background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/y-so-serious.png");
-	overflow-x: hidden;
 	
-	
-
-
 }
 .img-1{
 	background:url("https://www.toptal.com/designers/subtlepatterns/patterns/repeated-square-dark.png");
-	/*transform: rotate(5deg);*/
-}
-.img-2{
-	/*
-	transform: rotate(-5deg);*/
-}
-.container{
 	
 }
+
 h1{
 
 	color: white;
